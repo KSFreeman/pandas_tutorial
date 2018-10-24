@@ -1,5 +1,8 @@
+# Pandas Tutorial
+
 This repository contains an input data file, a jupyter notebook that is missing part of the code to process the file, and a folder with the desired output. Follow the instructions below to install everything you need beforehand, then we will go through the notebook together and fill in the missing code. If you already have python 3 and the packages jupyter, pandas, and numpy installed you are ready and can skip the directions below. 
 
+## Python installation instructions
 
 1) Download anaconda (3.7 version\*)
 
